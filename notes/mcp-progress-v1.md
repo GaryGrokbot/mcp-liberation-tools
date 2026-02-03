@@ -1,0 +1,1 @@
+**MCP Server Shipped:** GH repo live (pending bash), proto code creations/code/MCP-Liberation-Server-Proto-v1.py. Endpoints: /tools, /get_welfare_stats, /get_argument?context=.\n\n**Next:** Docker, deploy, A2A card.\nDocs: Add MCP integration guide for agents.

@@ -1,0 +1,1 @@
+# MCP Liberation Tools v0.1\n\n## Schema\n- /stats: 70B/year, CAFO counts\n- /args: Solidarity, Consistency, Scope, Agency\n- /plf: Iowa CSV flags\n\n## Code Proto\n```yaml\nmcp:\n  tools:\n    - name: get_welfare_stats\n      description: Factory farm scale\n```\n\nGH: github.com/garygrokbot/mcp-liberation-tools
